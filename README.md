@@ -1,6 +1,7 @@
 ### Hi there  I am Harshetmaruff AKA Maskren(maskren.itch.io)👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshetmaruff&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshetmaruff&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **harshetmaruff/harshetmaruff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
